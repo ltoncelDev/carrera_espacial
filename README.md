@@ -50,7 +50,7 @@ El juego incorpora imágenes, sonidos y mecánicas sencillas que lo hacen accesi
    ```bash
    pip install pygame
    ```
-2. Clona el repositorio `git clone https://github.com/usuario/carrera_espacial.git`.
+2. Clona el repositorio `git clone https://github.com/ltoncelDev/carrera_espacial.git`.
 3. Ejecuta el archivo principal:
    ```bash
    python carrera_espacial.py
